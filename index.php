@@ -76,7 +76,7 @@ body {
 }
   </style>
 	<div>
-	<button class="glow-on-hover" type="button"onclick="window.location.href='https://github.com/inrlwabot/faz'">GET QR</button>
+	<button class="glow-on-hover" type="button"onclick="window.location.href='https://replit.com/@Neeraj-x0/Millie-MD?outputonly=1&lite=1'">GET QR</button>
 	<div>
 	<br>
 	<br>
@@ -97,6 +97,11 @@ body {
 	<br>
 	<br>
 	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/39xKRUE'">FASWEEH</button>
+	<div>
+	<br>
+	<br>
+	<br>
+        <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/Lord-official/LoRD-MD'">MD GIT</button>
 	<div>
 	<br>
 	<br>
