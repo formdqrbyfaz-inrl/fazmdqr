@@ -101,7 +101,7 @@ body {
 	<br>
 	<br>
 	<br>
-        <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/Lord-official/LoRD-MD'">MD GIT</button>
+        <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/iiuzi-0x/Minx-MD'">MD GIT</button>
 	<div>
 	<br>
 	<br>
