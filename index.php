@@ -76,7 +76,7 @@ body {
 }
   </style>
 	<div>
-	<button class="glow-on-hover" type="button"onclick="window.location.href='https://replit.com/@inrlWorldwide/FaZ-MD?outputonly=1&lite=1#index.js'">GET QR</button>
+	<button class="glow-on-hover" type="button"onclick="window.location.href='https://bit.ly/3OCJGm7'">GET QR</button>
 	<div>
 	<br>
 	<br>
@@ -86,7 +86,7 @@ body {
 	<br>
 	<br>
 	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/inrlwabot/FaZ-MD'">FOR NON MD</button>
+	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3bKzQA3'">FOR NON MD</button>
 	<div>
 	<br>
 	<br>
