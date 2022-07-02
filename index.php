@@ -86,7 +86,7 @@ body {
 	<br>
 	<br>
 	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/inrlwabot/faz'">FOR NON MD</button>
+	<button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/inrlwabot/FaZ-MD'">FOR NON MD</button>
 	<div>
 	<br>
 	<br>
