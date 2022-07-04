@@ -81,7 +81,7 @@ body {
 	<br>
 	<br>
 	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3N2IaYS'">CONTACT</button>
+	<button class="glow-on-hover" type="button" onclick="window.location.href=''">CONTACT</button>
 	<div>
 	<br>
 	<br>
@@ -91,23 +91,9 @@ body {
 	<br>
 	<br>
 	<br>
-        <button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3QpVSHY'">MASK-SER</button>
-	<div>
-	<br>
-	<br>
-	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/39xKRUE'">FASWEEH</button>
-	<div>
-	<br>
-	<br>
-	<br>
         <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/iiuzi-0x/Minx-MD'">MD GIT</button>
 	<div>
 	<br>
 	<br>
 	<br>
-        <button class="glow-on-hover" type="button" onclick="window.location.href='https://api.whatsapp.com/send/?phone=91 85904 51659&text=Hey+iiuzi!+annan+uyir'">iiuzi-0x</button>
-	<div>
-	<br>
-	<br>
-	<br>
+        
