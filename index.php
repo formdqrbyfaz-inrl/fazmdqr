@@ -91,7 +91,7 @@ body {
 	<br>
 	<br>
 	<br>
-        <button class="glow-on-hover" type="button" onclick="window.location.href=''">MD GIT</button>
+        <button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3yciWlq'">MD GIT</button>
 	<div>
 	<br>
 	<br>
