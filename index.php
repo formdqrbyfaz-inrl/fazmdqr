@@ -86,12 +86,12 @@ body {
 	<br>
 	<br>
 	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3bKzQA3'">FOR NON MD</button>
+	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3Ib9Vxx'">OUR-GIT</button>
 	<div>
 	<br>
 	<br>
 	<br>
-        <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/iiuzi-0x/Minx-MD'">MD GIT</button>
+        <button class="glow-on-hover" type="button" onclick="window.location.href=''">MD GIT</button>
 	<div>
 	<br>
 	<br>
