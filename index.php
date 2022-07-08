@@ -76,7 +76,7 @@ body {
 }
   </style>
 	<div>
-	<button class="glow-on-hover" type="button"onclick="window.location.href='https://bit.ly/3OCJGm7'">GET QR</button>
+	<button class="glow-on-hover" type="button"onclick="window.location.href='https://replit.com/@Prince-Rudh/TEST-MD?v=1?outputonly=1&lite=1'">GET QR</button>
 	<div>
 	<br>
 	<br>
